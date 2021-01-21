@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "elated-mayer-a7e45d.netlify.app",
+    "apiUrl": "https://iamdevblog.herokuapp.com",
     "contentApiKey": "bfef21a352087bc0019fa7143e"
   },
   "production": {
-    "apiUrl": "elated-mayer-a7e45d.netlify.app",
+    "apiUrl": "https://iamdevblog.herokuapp.com",
     "contentApiKey": "bfef21a352087bc0019fa7143e"
   }
 }
