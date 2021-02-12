@@ -1,5 +1,5 @@
 # iamdev BLOG
-* Live at http://iamdev.xyz/
+* Live at https://iamdev.xyz/
 * GHOST cms on HEROKU
 * GATSBY-gen on netlify
 * Source there
